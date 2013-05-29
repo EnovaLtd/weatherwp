@@ -1,0 +1,4 @@
+C:\Users\spsetup\Desktop\ENOVA_Weather\EnovaWeatherSolution\EnovaWeatherSolution\bin\Debug\EnovaWeatherSolution.dll
+C:\Users\spsetup\Desktop\ENOVA_Weather\EnovaWeatherSolution\EnovaWeatherSolution\bin\Debug\EnovaWeatherSolution.pdb
+C:\Users\spsetup\Desktop\ENOVA_Weather\EnovaWeatherSolution\EnovaWeatherSolution\obj\Debug\EnovaWeatherSolution.dll
+C:\Users\spsetup\Desktop\ENOVA_Weather\EnovaWeatherSolution\EnovaWeatherSolution\obj\Debug\EnovaWeatherSolution.pdb

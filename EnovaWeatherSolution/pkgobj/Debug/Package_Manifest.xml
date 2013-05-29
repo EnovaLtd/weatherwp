@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="9f2b8536-e2cf-46a6-ac04-5c6caf00b65e" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="EnovaWeatherSolution.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="EnovaWeatherSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bdfd14f7002afc36" Namespace="EnovaWeatherSolution.Weather_WP" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="EnovaWeatherSolution_EnovaWeather\Feature.xml" />
+  </FeatureManifests>
+</Solution>

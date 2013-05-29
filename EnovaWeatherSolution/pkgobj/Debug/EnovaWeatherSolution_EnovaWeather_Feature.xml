@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="3c17980b-fbb2-4faf-8e91-5e444c691ef2" Scope="Site" Title="Enova Weather Feature">
+  <ElementManifests>
+    <ElementManifest Location="Weather_WP\Elements.xml" />
+    <ElementFile Location="Weather_WP\Weather_WP.webpart" />
+  </ElementManifests>
+</Feature>

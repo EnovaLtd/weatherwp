@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="EnovaWeatherSolution.Weather_WP.Weather_WP, EnovaWeatherSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bdfd14f7002afc36" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">EnovaWeatherSolution - Weather_WP</property>
+        <property name="Description" type="string">Enova Weather Web Part</property>
+        <property name="API Key" type="string">API KEY</property>
+        <property name="Locations" type="string">Locations</property>
+        <property name="Display Type" type="string">Display Type</property>
+        <property name="Display Duration" type="string">Display Duration</property>
+        <property name="Cache Lifetime" type="string">Cache Lifetime</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

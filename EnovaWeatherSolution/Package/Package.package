@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9f2b8536-e2cf-46a6-ac04-5c6caf00b65e" solutionId="9f2b8536-e2cf-46a6-ac04-5c6caf00b65e" resetWebServer="false" sharePointProductVersion="15.0" name="EnovaWeatherSolution" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="4ba27537-a0bc-422c-a1c4-e5ac81212701" />
+  </features>
+</package>

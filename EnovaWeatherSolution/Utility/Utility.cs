@@ -16,7 +16,7 @@ namespace EnovaWeatherSolution
 
             public Settings()
             {
-
+                Lat = "";
             }
         }
 
